@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muaawiyah</h1>
 
-![Yensubldg](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F5F5F2&center=true&vCenter=true&width=435&lines=Trying+to+be+a+Software+Engineering)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&pause=1000&color=F7AFAF&random=false&width=435&lines=Trying+to+be+an+Engineer+...)](https://git.io/typing-svg)
 
 <!--
 ![](https://komarev.com/ghpvc/?username=yensubldg&label=Visitors+Count&color=brightgreen) -->
@@ -21,9 +21,4 @@
 
 # 📊GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=yensubldg&theme=tokyonight&border_radius=8)
-
-# Snake Game
-
-![Snake eating my contribution graph](./github-contribution-grid-snake.svg)
-
+![GitHub Streak](https://streak-stats.demolab.com?user=meneerfrikkie&theme=tokyonight&border_radius=8)
